@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>Join-Object</id>
+        <version>2.0.3</version>
+        <authors>ili</authors>
+        <owners></owners>
+        <description>Join-Object LINQ Edition.
+Join data from two sets of objects based on a common value.
+Aims to provide the exact functionality of https://github.com/RamblingCookieMonster/PowerShell/blob/master/Join-Object.ps1 with much better performance.
+Initial testing shows at last 100 times faster.
+
+More info at https://github.com/ili101/Join-Object/blob/master/README.md</description>
+        <releaseNotes>Change Log
+https://github.com/ili101/Join-Object/blob/master/CHANGELOG.md</releaseNotes>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <copyright>(c) 2017 ili. All rights reserved.</copyright>
+        <tags>Join Join-Object LINQ Combine Merge Union Compare Table DataTable PSModule PSIncludes_Function PSFunction_Join-Object PSCommand_Join-Object</tags>
+        
+        <projectUrl>https://github.com/ili101/Join-Object</projectUrl>
+        
+        <dependencies>
+            
+        </dependencies>
+    </metadata>
+</package>
